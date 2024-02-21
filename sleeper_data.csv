@@ -1,0 +1,9 @@
+location,name,race,lvl,hp,mp,physical,pierce,fire,electric,ice,force,mind,item_amount,item,yen,physical_attack,pierce_attack,fire_attack,electric_attack,ice_attack,force_attack,mind_attack
+Underground,Kisume,Youkai,5,34,40,,,I,W,I,W,,,,,,,Agni,,Acala,,
+Hell,Parsee,Youkai,9,41,57,,R,,W,,I,W,1,Remedy,,,,,,,"Ajira,Hijira",
+Hell,Yuugi,Oni,10,64,42,R,R,,W,,W,,1,Magic Fabric,,"Sweep,Tackle",Vision Stab,,,,,
+Chireiden,Satori,Youkai,5,29,50,,,,R,,R,W,2,Handheld Battery,,,,,,Acala,Yomi,
+Chireiden,Orin,Youkai,4,26,19,,R,I,,W,,W,3,Life Shard,,,,Agni,,,,
+Hell,Utsuho,Youkai,10,55,47,,W,A,,,,W,2,Life Gems,,,,Agni,Azani,,,
+Chireiden,Koishi,Youkai,5,32,35,,W,,,W,R,I,2,Antidote,,,,,,,Ajira,
+Hell,Chiyari,Youkai,10,51,55,,R,I,,,,W,1,Magic Fabric,,,Vision Stab,Agni,,,,
